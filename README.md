@@ -1,6 +1,6 @@
-## Vector field interpolation
+# Vector field interpolation
 
-A short tutorial that compares 3 differ net methods of interpolating current fields from scattered or transect observations (VM-ADCPS or the like).
+A short tutorial that compares 3 different methods of interpolating current fields from scattered or transect observations (VM-ADCPS, gliders or the like).
 
 # Generate synthetic eddy test scenario
 
